@@ -70,4 +70,6 @@ group :test do
   gem 'guard'
   gem 'guard-minitest'
   gem 'spring'
+  gem 'sass-rails'
+  gem 'bootstrap-sass'
 end
