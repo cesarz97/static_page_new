@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   
   resources :users
   resources :static_pages
+  resources :session  
   
   root 'static_pages#home'
   
